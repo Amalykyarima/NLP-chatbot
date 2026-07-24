@@ -13,7 +13,7 @@ A Streamlit-based chatbot that answers frequently asked questions about the MSc 
 
 ## Live Demo
 
-[Add your hosted link here after deployment]
+https://nlp-chatbot-msc-program-faq.streamlit.app/
 
 ## Local Development
 
